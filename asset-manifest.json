@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NewTimer/static/css/main.05434627.chunk.css",
+    "main.js": "/NewTimer/static/js/main.439dad3b.chunk.js",
+    "main.js.map": "/NewTimer/static/js/main.439dad3b.chunk.js.map",
+    "runtime-main.js": "/NewTimer/static/js/runtime-main.315da361.js",
+    "runtime-main.js.map": "/NewTimer/static/js/runtime-main.315da361.js.map",
+    "static/css/2.fe359a49.chunk.css": "/NewTimer/static/css/2.fe359a49.chunk.css",
+    "static/js/2.3b39622b.chunk.js": "/NewTimer/static/js/2.3b39622b.chunk.js",
+    "static/js/2.3b39622b.chunk.js.map": "/NewTimer/static/js/2.3b39622b.chunk.js.map",
+    "static/js/3.3eaffda2.chunk.js": "/NewTimer/static/js/3.3eaffda2.chunk.js",
+    "static/js/3.3eaffda2.chunk.js.map": "/NewTimer/static/js/3.3eaffda2.chunk.js.map",
+    "index.html": "/NewTimer/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/NewTimer/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.05434627.chunk.css.map": "/NewTimer/static/css/main.05434627.chunk.css.map",
+    "static/js/2.3b39622b.chunk.js.LICENSE.txt": "/NewTimer/static/js/2.3b39622b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.315da361.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.3b39622b.chunk.js",
+    "static/css/main.05434627.chunk.css",
+    "static/js/main.439dad3b.chunk.js"
+  ]
+}
